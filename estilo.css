@@ -1,0 +1,108 @@
+body {
+    background-color: #f0ebeb;
+    color: #fff;
+}
+
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 900;
+    font-size: 400%;
+    color: #ffffff;
+}
+
+h2 {
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 800;
+    color: #ffffff;
+}
+
+p {
+    text-align: center;
+    color: #ffffff;
+    font-size: large;
+    font-weight: 800;
+}
+
+#opciones {
+    text-align: center;
+    list-style: none;
+}
+
+#opciones li {
+    display: inline-block;
+    padding: 10px;
+}
+
+.boton {
+    text-decoration: none;
+    color: #fffefe;
+    border: 2px solid rgb(255, 255, 255);
+    padding: 5px;
+    border-radius: 5px;
+    display: inline-block;
+}
+
+.boton:hover {
+    background-color: rgb(8, 8, 8);
+    color: #ffffff;
+}
+
+.honda {
+    display: flex;
+    justify-content: center;
+}
+
+picture img {
+    width: 15%;
+}
+
+.encabezado {
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: rgb(255, 255, 255);
+}
+
+.bmw {
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: rgb(255, 255, 255);
+}
+
+.bmw {
+    display: flex;
+    justify-content: center;
+}
+.kawasaki {
+    display: flex;
+    justify-content: center;
+}
+.kawasakimoto {
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: rgb(255, 255, 255);
+}
+.motomelmoto {
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: rgb(255, 255, 255);
+}
+#fondo{
+    background-image: url(fondomoto.avif);
+}
+.yamaha {
+    display: flex;
+    justify-content: center
+}
+.motomel{
+    display: flex;
+    justify-content: center;
+}
+.Volver{
+    list-style: none;
+}
